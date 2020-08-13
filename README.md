@@ -27,7 +27,7 @@ To make advancements/modifications, follow these steps:
 ## Technologies Used
 Technologies used to develop this application:
 
-1. Python v3.6
+1. Python v3.8.2
 2. Django 3.0.7
 3. Javascript
 4. Cloudinary
